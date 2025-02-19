@@ -1,6 +1,6 @@
 {
   "vaultName": "Libreta",
-  "lastExport": 1739936782013,
+  "lastExport": 1739937185424,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -23,7 +23,7 @@
     "Clippings/I recently got diagnosed with a brain disorder.md",
     "Clippings/Why Blog If Nobody Reads It.md",
     "Clippings/Write for yourself, not the audience.md",
-    "Home.md",
+    "Index.md",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -87,283 +87,283 @@
   ],
   "fileInfo": {
     "Clippings/12 The Rules of Storytelling.md": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 12857,
       "exportedPath": "clippings/12-the-rules-of-storytelling.html",
       "dependencies": []
     },
     "Clippings/Advice for a friend who wants to start a blog.md": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 8216,
       "exportedPath": "clippings/advice-for-a-friend-who-wants-to-start-a-blog.html",
       "dependencies": []
     },
     "Clippings/Aquí no hay quien pare... ¿o sí.md": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 36179,
       "exportedPath": "clippings/aquí-no-hay-quien-pare...-¿o-sí.html",
       "dependencies": []
     },
     "Clippings/Blade Runner  TOP10 distopías del cine  Cuarta entrega  Windumanoth.md": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 13713,
       "exportedPath": "clippings/blade-runner-top10-distopías-del-cine-cuarta-entrega-windumanoth.html",
       "dependencies": []
     },
     "Clippings/Confesiones de una sociópata Disfruto haciendo fechorías. No me gustan las muestras de cariño. Casi siempre que lloro estoy fingiendo.md": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 11254,
       "exportedPath": "clippings/confesiones-de-una-sociópata-disfruto-haciendo-fechorías.-no-me-gustan-las-muestras-de-cariño.-casi-siempre-que-lloro-estoy-fingiendo.html",
       "dependencies": []
     },
     "Clippings/El triste precio de la estupidez.md": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 12528,
       "exportedPath": "clippings/el-triste-precio-de-la-estupidez.html",
       "dependencies": []
     },
     "Clippings/Having Kids.md": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 8542,
       "exportedPath": "clippings/having-kids.html",
       "dependencies": []
     },
     "Clippings/How meditation deconstructs your mind.md": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 25522,
       "exportedPath": "clippings/how-meditation-deconstructs-your-mind.html",
       "dependencies": []
     },
     "Clippings/How to have a career even when OpenAI's o3 drops.md": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 16375,
       "exportedPath": "clippings/how-to-have-a-career-even-when-openai's-o3-drops.html",
       "dependencies": []
     },
     "Clippings/motion vs. action.md": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 5603,
       "exportedPath": "clippings/motion-vs.-action.html",
       "dependencies": []
     },
     "Clippings/Parkinson's Law It's Real, So Use It.md": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 5402,
       "exportedPath": "clippings/parkinson's-law-it's-real,-so-use-it.html",
       "dependencies": []
     },
     "Clippings/The Fastest Way Create A New Life (A 12 Month Plan) - Dan Koe.md": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 18554,
       "exportedPath": "clippings/the-fastest-way-create-a-new-life-(a-12-month-plan)-dan-koe.html",
       "dependencies": []
     },
     "Clippings/The future belongs to idea guys who can just do things.md": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 9068,
       "exportedPath": "clippings/the-future-belongs-to-idea-guys-who-can-just-do-things.html",
       "dependencies": []
     },
     "Clippings/The Small Web is Great.md": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 2157,
       "exportedPath": "clippings/the-small-web-is-great.html",
       "dependencies": []
     },
     "Clippings/I recently got diagnosed with a brain disorder.md": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 16692,
       "exportedPath": "clippings/i-recently-got-diagnosed-with-a-brain-disorder.html",
       "dependencies": []
     },
     "Clippings/Why Blog If Nobody Reads It.md": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 2433,
       "exportedPath": "clippings/why-blog-if-nobody-reads-it.html",
       "dependencies": []
     },
     "Clippings/Write for yourself, not the audience.md": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 6344,
       "exportedPath": "clippings/write-for-yourself,-not-the-audience.html",
       "dependencies": []
     },
-    "Home.md": {
-      "modifiedTime": 1739936782013,
+    "Index.md": {
+      "modifiedTime": 1739937185424,
       "sourceSize": 21,
-      "exportedPath": "home.html",
+      "exportedPath": "index.html",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1739936782013,
-      "sourceSize": 8172,
+      "modifiedTime": 1739937185424,
+      "sourceSize": 8174,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1739936782013,
-      "sourceSize": 2149,
+      "modifiedTime": 1739937185424,
+      "sourceSize": 2151,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 137229,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1739936782013,
+      "modifiedTime": 1739937185424,
       "sourceSize": 100,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
